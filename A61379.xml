@@ -1,0 +1,342 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Robert the III King of Scotland, his answer to a summonds sent by Henry the IV. of England, to do homage for the crown of Scotland</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1700</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A61379</idno>
+            <idno type="STC">Wing S5377</idno>
+            <idno type="STC">ESTC R220623</idno>
+            <idno type="EEBO-CITATION">99832019</idno>
+            <idno type="PROQUEST">99832019</idno>
+            <idno type="VID">36487</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A61379)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 36487)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2098:19)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Robert the III King of Scotland, his answer to a summonds sent by Henry the IV. of England, to do homage for the crown of Scotland</title>
+                  <author>Steel, G., attributed name.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>Edinburgh :</pubPlace>
+                  <date>printed in the year, M. DCC. [1700]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Sometimes attributed to G. Steel (cf. Wing).</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Scotland --  Kings and rulers --  Early works to 1800.</term>
+               <term>Scotland --  History --  War of Independence, 1285-1371 --  Early works to 1800.</term>
+               <term>Great Britain --  Kings and rulers --  Succession --  Early works to 1800.</term>
+               <term>Great Britain --  History --  To 1485 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-07</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2012-07</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:36487:1" rendition="simple:additions"/>
+            <pb facs="tcp:36487:1" rendition="simple:additions"/>
+            <p>ROBERT the III King of <hi>Scotland,</hi> His Anſwer to a Summonds ſent by HENRY the IV Of <hi>England,</hi> To do Homage for the <hi>CROWN of SCOTLAND.</hi>
+            </p>
+            <p>EDINBURGH, Printed in the Year, M.DCC.</p>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb n="†" facs="tcp:36487:2"/>
+            <head>
+               <hi>ROBERT</hi> the III King of <hi>Scotland,</hi> His Anſwer to a Summonds ſent Him by <hi>Henry</hi> the IV of <hi>England,</hi> to do Homage for the Crown of <hi>Scotland.</hi>
+            </head>
+            <lg>
+               <l>DUreing the Reign of the Royal <hi>Robert,</hi>
+               </l>
+               <l>The ſecond of the good <hi>Stewart;</hi>
+               </l>
+               <l>
+                  <hi>Henrie</hi> of <hi>England</hi> the feard King</l>
+               <l>To <hi>Scotland</hi> ſent and ask'd this thing;</l>
+               <l>To ſpier at <hi>Robert,</hi> Why he not made</l>
+               <l>Him Homage for his Lands braid,</l>
+               <l>For why he ought of Heretage,</l>
+               <l>At <hi>London</hi> to do him Homage;</l>
+               <l>And that in Right of <hi>Brutus</hi> King,</l>
+               <l>Who had <hi>England</hi> in Governing.</l>
+               <l>Why then cauſed he through his Guilt</l>
+               <l>So meikle ſakleſs Blood be ſpilt.</l>
+               <l>VVhen King <hi>Robert</hi> wiſe and wight,</l>
+               <l>Had heard and ſeen this writ be ſight;</l>
+               <pb n="3" facs="tcp:36487:2"/>
+               <l>Therfor he grew full matalent</l>
+               <l>To tell his Barrons, of his intent,</l>
+               <l>He called a Council to <hi>Stirvling</hi> Town</l>
+               <l>And there came Lords of great renown</l>
+               <l>And at them all he asked of it</l>
+               <l>If he ſhould anſwer be his awne wit,</l>
+               <l>The Lords were all faine of that thing,</l>
+               <l>And referred it to their Noble King;</l>
+               <l>So without Council of onie man,</l>
+               <l>To Dyte and VVrite the King began.</l>
+               <l>This was the effect of his VVriteing,</l>
+               <l>All is ſooth and na Lieſing.</l>
+               <l>"I <hi>Robert</hi> be God's might</l>
+               <l>King of the <hi>Scots</hi> and <hi>Iſles</hi> be Right,</l>
+               <l>From hight of Hills to the Ocean <hi>Sea,</hi>
+               </l>
+               <l>Our Heretage was ever free;</l>
+               <l>To thee <hi>Hary of Lancaster,</hi>
+               </l>
+               <l>Thy 'Pyſtle I have conſidered well.</l>
+               <l>Duke of that <hi>Ilk</hi> thou ſhould be cal'd</l>
+               <l>It was thy righteous Style of auld,</l>
+               <l>But nae King I will call thee,</l>
+               <l>For hurting of Kings Majeſtie;</l>
+               <l>For I will take nae heeding</l>
+               <l>Of they unrighteous Invading;</l>
+               <l>For what was right (as is well knawn)</l>
+               <l>Ye all defould within your awn:</l>
+               <l>But we will do you underſtand</l>
+               <pb n="4" facs="tcp:36487:3"/>
+               <l>VVhat we declare fornent <hi>Scotland.</hi>
+               </l>
+               <l>Your inward Tale we have well ſeen,</l>
+               <l>Baith firſt and laſt what you do mean;</l>
+               <l>Therefor thou ſhalt an anſwer have,</l>
+               <l>E'en by my ſelf, attour the leave;</l>
+               <l>The firſt point is, God wittneſs bear,</l>
+               <l>No Blood for me be ſpilt in VVeir,</l>
+               <l>But gif it be in my Defence,</l>
+               <l>Through thy uſurping Violence.</l>
+               <l>And whereas that thou VVriteſt thus,</l>
+               <l>Since born were Sons to Old <hi>Brutus,</hi>
+               </l>
+               <l>That our Anteceſſours ſhould be,</l>
+               <l>Servants to Yours in ilk Degree;</l>
+               <l>Thou Lyeſt, thereof it is well knawn,</l>
+               <l>VVe was ay free within our awn.</l>
+               <l>Albeit <hi>John Balioll</hi> made a Band,</l>
+               <l>Contrar the Right of fair <hi>Scotland.</hi>
+               </l>
+               <l>That he was falſe we will defend</l>
+               <l>VVith Lives and Fortunes to the end;</l>
+               <l>For our Heretage was ever Free,</l>
+               <l>Since <hi>Scota</hi> of <hi>Aegypt</hi> tuik the Sea,</l>
+               <l>Whilſt ye have ever Conquered been:</l>
+               <l>For, a Thouſand pounds of Gold ſchein</l>
+               <l>To <hi>Julius Caeſar</hi> Payit yee,</l>
+               <l>Of Tribute, thus ye was not free;</l>
+               <l>With <hi>Saxons</hi> ſyne ye were orthrawn,</l>
+               <pb n="5" facs="tcp:36487:3"/>
+               <l>With them twa Chiftans of your awn,</l>
+               <l>And other folks in Company</l>
+               <l>All Soldiers Born in <hi>Germany,</hi>
+               </l>
+               <l>Came with ſik power in great haſt</l>
+               <l>That made your Lands baith bair and waiſt;</l>
+               <l>And ſlew your Gentles of <hi>Ingland</hi>
+               </l>
+               <l>At <hi>Salysbury</hi> as I underſtand,</l>
+               <l>In taken is the Hingand Stanes,</l>
+               <l>That there were ſet up for the Nanes;</l>
+               <l>In <hi>Latin</hi> is a Memorial,</l>
+               <l>That <hi>Saxons</hi> had orſet you all.</l>
+               <l>Then <hi>Harald,</hi> the Son of <hi>Denmark</hi> King</l>
+               <l>The third time raiſe o're you to Reign,</l>
+               <l>And in ilk Houſe, as is well knawn,</l>
+               <l>You were defould within your awn;</l>
+               <l>They Occupyed your Maids and Wifes,</l>
+               <l>In Bondage thus you led your lives.</l>
+               <l>When this was done and all by paſt,</l>
+               <l>The fourth Conqueſt aproached faſt;</l>
+               <l>A Baſtard came out of <hi>Normandy,</hi>
+               </l>
+               <l>Conqueſt <hi>Ingland</hi> all hailily;</l>
+               <l>And yet amongſt you Reigns that Blood,</l>
+               <l>And mikle uther that is nae good:</l>
+               <l>G<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>f thou trows not, this true to be</l>
+               <l>The Regiſter Read and thou ſhalt ſee.</l>
+               <l>Thus four times thirld and overharld</l>
+               <pb n="6" facs="tcp:36487:4"/>
+               <l>You're the great refuſe of all the Warld;</l>
+               <l>Nor got thou Righteous thy felf to Reigne,</l>
+               <l>Thy awn realm kennes well this thing;</l>
+               <l>At <hi>London</hi> thou Swair in Parliament,</l>
+               <l>
+                  <hi>Ingland</hi> ten Year thou ſhould abſent;</l>
+               <l>Then waſt thou manifeſtly manſworn,</l>
+               <l>Or ever three Years was out worn</l>
+               <l>Thou raiſe Treaſonably for to Reigne,</l>
+               <l>And ſlew <hi>Richard</hi> thy Native King.</l>
+               <l>Forſooth the Proverb tells of this,</l>
+               <l>Whilk often times true founden is:</l>
+               <l>Flyte with thy Nighbour, and he will tell</l>
+               <l>All the miſcheifs that thee befell.</l>
+               <l>But <hi>Scotland</hi> yet I dare well ſay</l>
+               <l>Was ever free unto this day,</l>
+               <l>Nor never ſtranger weer'd our Crown</l>
+               <l>Except of late a manſworn lowne,</l>
+               <l>That was <hi>Langſhanks</hi> call'd <hi>Edward,</hi>
+               </l>
+               <l>Tuik on him to declare the pairt</l>
+               <l>Between the <hi>Bruce</hi> and <hi>John Balion;</hi>
+               </l>
+               <l>Then through your falſe illuſion,</l>
+               <l>Where that <hi>John Baliol</hi> had no right,</l>
+               <l>And ſo took Treaſonaly to hauld by ſlight;</l>
+               <l>Caſtles and Strengths of our Country</l>
+               <l>Your <hi>Edward</hi> tuik moſt Cheatingly,</l>
+               <l>While <hi>William Wallace</hi> wight and wiſe</l>
+               <pb n="7" facs="tcp:36487:4"/>
+               <l>Right worthily reſcued us thrice;</l>
+               <l>Then Valiant <hi>Bruce</hi> right rackleſly</l>
+               <l>Firſt tint, ſyne wan us worthyly;</l>
+               <l>With him was <hi>Graham,</hi> and the <hi>Dowglas</hi>
+               </l>
+               <l>That proved full well in many a place,</l>
+               <l>And <hi>Thomas Randolf</hi> wiſe and wight,</l>
+               <l>There was not then a worthier Knight,</l>
+               <l>Then thir expelled your falſe Barnage,</l>
+               <l>And fredd our Realm of all Thirlage.</l>
+               <l>If you trow us not of this,</l>
+               <l>Sixty Thouſand you well did miſs</l>
+               <l>At <hi>Bannokburn</hi> diſcomfiſt was,</l>
+               <l>And Your falſe King away did paſs</l>
+               <l>Throw an inborn Traytour as was well ken'd</l>
+               <l>In <hi>England</hi> free he did him ſend,</l>
+               <l>Or elſe we then had tane your King</l>
+               <l>Who had <hi>Ingland</hi> in governing.</l>
+               <l>When ane Year comen was and gane,</l>
+               <l>Then <hi>Edward</hi> of <hi>Carnarven</hi>
+               </l>
+               <l>Diſcomfiſt he was at <hi>Byland</hi>
+               </l>
+               <l>By Meſſengers I underſtand,</l>
+               <l>Sir <hi>Walter Stewart</hi> then in hy</l>
+               <l>He Chaſed him all openly</l>
+               <l>Twixt <hi>Scarborough</hi> Caſtle he him chaſſ'd,</l>
+               <l>Syne to his Hoſt returned in haſt;</l>
+               <l>But then the Clergy of <hi>Ingland</hi>
+               </l>
+               <l>Renewed again with ſtalwart Hand,</l>
+               <pb n="8" facs="tcp:36487:5"/>
+               <l>At <hi>Newtoun</hi> as it was well knawn</l>
+               <l>VVhere haſtily they were orthrawn</l>
+               <l>By the good <hi>Dowglaſs,</hi> ſooth to ſay,</l>
+               <l>And <hi>Thomas Randolf</hi> Earle of <hi>Murray,</hi>
+               </l>
+               <l>There Thirty thouſand were dung to Dead</l>
+               <l>Withouten ſuccor or remeid;</l>
+               <l>Syne after that, <hi>Robert</hi> the <hi>Bruce</hi>
+               </l>
+               <l>Took hail ſtate, and could reduce</l>
+               <l>
+                  <hi>Northumberland</hi> all to him ſell,</l>
+               <l>As many Cronicles can tell.</l>
+               <l>Then ye were fain from Weirs to ceaſe,</l>
+               <l>And ſought by Mariage for a Peace,</l>
+               <l>Begging our Prince the <hi>Bruce Davie</hi>
+               </l>
+               <l>On Your Dame <hi>Jean</hi> to play a Pavy.</l>
+               <l>Ye made this evident, and drew a Band</l>
+               <l>Under the great Seal of <hi>Ingland,</hi>
+               </l>
+               <l>VVhilk we have plainly for to ſhaw,</l>
+               <l>The verity if ye will knaw.</l>
+               <l>All this is true, I'le teſtifie</l>
+               <l>And provei<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> on Sixty againſt Sixty,</l>
+               <l>Or Fortie for Fortie, gi<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> You like,</l>
+               <l>Or Twentie to Twentie of ilk Kinrick,</l>
+               <l>Or Nine, Aught, Seven, Four, Three, or Two</l>
+               <l>Born of Antient Blood alſo,</l>
+               <l>Or Hand to Hand if You think meet,</l>
+               <l>And ſo Sir Duke I do you Greet.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:36487:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
